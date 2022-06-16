@@ -3,6 +3,8 @@
 
 This is a beginner Project.
 
+Hacking on [ENCODE](https://www.encode.club/polygon-hackathon)
+
 [CONTRACT ADDRESS](https://polygonscan.com/address/0xece6560f7bf92b1c462bdde9b72df1cbec46dc18)
 
 
